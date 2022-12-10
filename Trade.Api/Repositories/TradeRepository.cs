@@ -8,24 +8,24 @@ public class TradeRepository : GenericRepository<Trade>, ITradeRepository
     {
     }
 
-    public void AddTrade(Trade trade)
-    {
-        _context.Trades.Add(trade);
-    }
+    //public void AddTrade(Trade trade)
+    //{
+    //    _context.Trades.Add(trade);
+    //}
 
-    public Trade GetTrade(Guid tradeId)
-    {
-        return _context.Trades.FirstOrDefault(t => t.Id == tradeId);
-    }
+    //public Trade GetTrade(Guid tradeId)
+    //{
+    //    return _context.Trades.FirstOrDefault(t => t.Id == tradeId);
+    //}
 
-    public List<Trade> GetTrades()
-    {
-        return _context.Trades.ToList();
-    }
+    //public List<Trade> GetTrades()
+    //{
+    //    return _context.Trades.ToList();
+    //}
 
-    public bool SaveChanges()
-    {
-        return _context.SaveChanges() >= 0;
-    }
+    //public bool SaveChanges()
+    //{
+    //    return _context.SaveChanges() >= 0;
+    //}
 
 }
