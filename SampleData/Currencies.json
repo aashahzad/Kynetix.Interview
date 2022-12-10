@@ -1,0 +1,158 @@
+[
+  {
+    "Code": "UNK",
+    "Name": "Unknown"
+  },
+  {
+    "Code": "GBP",
+    "Name": "Pound Sterling"
+  },
+  {
+    "Code": "EUR",
+    "Name": "Euro"
+  },
+  {
+    "Code": "USD",
+    "Name": "US Dollar"
+  },
+  {
+    "Code": "CHF",
+    "Name": "Swiss Franc"
+  },
+  {
+    "Code": "JPY",
+    "Name": "Japanese Yen"
+  },
+  {
+    "Code": "AUD",
+    "Name": "Australian Dollar"
+  },
+  {
+    "Code": "NOK",
+    "Name": "Norwegian Krone"
+  },
+  {
+    "Code": "ZAR",
+    "Name": "South African Rand"
+  },
+  {
+    "Code": "NZD",
+    "Name": "New Zealand Dollar"
+  },
+  {
+    "Code": "CAD",
+    "Name": "Canadian Dollar"
+  },
+  {
+    "Code": "XAG",
+    "Name": "Ounces of Silver"
+  },
+  {
+    "Code": "XAU",
+    "Name": "Ounces of Gold"
+  },
+  {
+    "Code": "XPD",
+    "Name": "Ounces of Palladium"
+  },
+  {
+    "Code": "XPT",
+    "Name": "Ounces of Platinum"
+  },
+  {
+    "Code": "CZK",
+    "Name": "Czech Koruna"
+  },
+  {
+    "Code": "DKK",
+    "Name": "Danish Krone"
+  },
+  {
+    "Code": "SEK",
+    "Name": "Swedish Krona"
+  },
+  {
+    "Code": "TRY",
+    "Name": "New Turkish Lira"
+  },
+  {
+    "Code": "HKD",
+    "Name": "Hong Kong Dollar"
+  },
+  {
+    "Code": "SGD",
+    "Name": "Singapore Dollars"
+  },
+  {
+    "Code": "ISK",
+    "Name": "Icelandic Krona"
+  },
+  {
+    "Code": "PLN",
+    "Name": "Polish Zloty"
+  },
+  {
+    "Code": "RUB",
+    "Name": "Russian Ruble"
+  },
+  {
+    "Code": "HUF",
+    "Name": "Hungarian Forint"
+  },
+  {
+    "Code": "BRL",
+    "Name": "Brazilian Real"
+  },
+  {
+    "Code": "INR",
+    "Name": "Indian Rupee"
+  },
+  {
+    "Code": "MYR",
+    "Name": "Malaysian Ringgit"
+  },
+  {
+    "Code": "ILS",
+    "Name": "Israeli New Shekel"
+  },
+  {
+    "Code": "MXN",
+    "Name": "Mexican Peso"
+  },
+  {
+    "Code": "KRW",
+    "Name": "South Korean Won"
+  },
+  {
+    "Code": "CNY",
+    "Name": "Chinese Yuan Renminbi"
+  },
+  {
+    "Code": "AED",
+    "Name": "United Arab Emirates Dirham"
+  },
+  {
+    "Code": "CNH",
+    "Name": "Chinese Yuan Renminbi (offshore)"
+  },
+  {
+    "Code": "CNH",
+    "Name": "Chinese RMB"
+  },
+  {
+    "Code": "THB",
+    "Name": "Thai Baht"
+  },
+  {
+    "Code": "SAR",
+    "Name": "Saudi Arabian Riyal"
+  },
+  {
+    "Code": "BRL",
+    "Name": "BRL"
+  },
+  {
+    "Code": "RON",
+    "Name": "Romanian Leu"
+  }
+]

@@ -1,0 +1,49 @@
+@referenceDataURI = https://localhost:5210
+
+@tradeId = 6d278d9f-282d-4f0a-aba2-8bf51448d6de
+
+@accountCode = CLR
+@currencyCode = USD
+@exchangeCode = Exchange 1
+@firmCode = Firm 1
+@instrumentCode = Instrument 1
+
+
+# Get account by code
+GET {{referenceDataURI}}/api/Account/{{accountCode}}
+
+###
+# Get all accounts
+GET {{referenceDataURI}}/api/Account
+
+###
+# Get currency by code
+GET {{referenceDataURI}}/api/Currency/{{currencyCode}}
+
+###
+# Get all currencies
+GET {{referenceDataURI}}/api/Currency
+
+###
+# Get exchange by code
+GET {{referenceDataURI}}/api/Exchange/{{exchangeCode}}
+
+### 
+# Get all exchanges
+GET {{referenceDataURI}}/api/Exchange
+
+###
+# Get Firm by code
+GET {{referenceDataURI}}/api/Firm/{{firmCode}}
+
+###
+# Get all firms
+GET {{referenceDataURI}}/api/Firm
+
+###
+# Get Instrument by code
+GET {{referenceDataURI}}/api/Instrument/{{instrumentCode}}/
+
+###
+# Get all instruments
+GET {{referenceDataURI}}/api/Instrument

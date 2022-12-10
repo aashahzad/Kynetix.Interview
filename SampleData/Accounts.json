@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "CLR",
+    "Name": "Clearing Account"
+  },
+  {
+    "Code": "TRD",
+    "Name": "Trading Account"
+  },
+  {
+    "Code": "MRG",
+    "Name": "Margin Account"
+  },
+  {
+    "Code": "SEG",
+    "Name": "Segregated Account"
+  }
+]

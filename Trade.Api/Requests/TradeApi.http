@@ -1,0 +1,31 @@
+@interviewUrl = https://localhost:5172
+@tradeId = 6d278d9f-282d-4f0a-aba2-8bf51448d6de
+
+# Create a new trade
+POST {{interviewUrl}}/api/Trade
+Content-Type: application/json
+
+{
+  "transactionType": "Option",
+  "optionTypeCode": "C",
+  "buySell": true,
+  "quantity": 10,
+  "price": 100,
+  "expiryDate": "2028-01-01",
+  "transactionDate": "2021-11-28T18:59:34.297Z",
+  "strikePrice": 0,
+  "expiryDate": "2024-11-28T18:59:34.297Z",
+  "exchangeCode": "NYPC",
+  "AccountCode": "TRD",
+  "firmCode": "MFTEX (EEX)",
+  "instrumentCode": "F_MYM (CBT)",
+  "currencyCode": "GBP"
+}
+
+###
+# Get all trades
+GET {{interviewUrl}}/api/Trade/ 
+
+###
+# Get trade by id
+GET {{interviewUrl}}/api/Trade/{{tradeId}} 

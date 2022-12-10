@@ -1,0 +1,23 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: kynetix.interview
+services:
+- name: trade-api
+  project: Trade.Api/Trade.Api.csproj
+  bindings:
+  - port: 5172
+    protocol: https
+- name: marketdata-api
+  project: MarketData.Api/MarketData.Api.csproj
+  bindings:
+  - port: 5197
+    protocol: https
+- name: referencedata-api
+  project: ReferenceData.Api/ReferenceData.Api.csproj
+  bindings:
+  - port: 5210
+    protocol: https

@@ -1,0 +1,234 @@
+[
+  {
+    "Code": "ICE",
+    "Name": "IPE/ICE"
+  },
+  {
+    "Code": "LIF",
+    "Name": "LIFFE"
+  },
+  {
+    "Code": "LTOM",
+    "Name": "LTOM"
+  },
+  {
+    "Code": "MONEP",
+    "Name": "Euronext - MONEP"
+  },
+  {
+    "Code": "MATIF",
+    "Name": "Euronext - MATIF"
+  },
+  {
+    "Code": "SBF",
+    "Name": "Euronext - SBF"
+  },
+  {
+    "Code": "EUX",
+    "Name": "Eurex"
+  },
+  {
+    "Code": "TIFFE",
+    "Name": "Tokyo Financial Exchange"
+  },
+  {
+    "Code": "HKFE",
+    "Name": "Hong Kong Futures Exchange"
+  },
+  {
+    "Code": "IDEM",
+    "Name": "IDEM"
+  },
+  {
+    "Code": "SFE",
+    "Name": "Sydney Futures Exchange"
+  },
+  {
+    "Code": "CBT",
+    "Name": "Chicago Board of Trade"
+  },
+  {
+    "Code": "MEFF",
+    "Name": "MEFF"
+  },
+  {
+    "Code": "COMEX",
+    "Name": "COMEX"
+  },
+  {
+    "Code": "NYME",
+    "Name": "New York Mercantile Exchange"
+  },
+  {
+    "Code": "ME",
+    "Name": "Montreal Exchange"
+  },
+  {
+    "Code": "WCE",
+    "Name": "Winnipeg Commodity Exchange"
+  },
+  {
+    "Code": "LME",
+    "Name": "London Metal Exchange"
+  },
+  {
+    "Code": "CME",
+    "Name": "Chicago Mercantile Exchange"
+  },
+  {
+    "Code": "SDT",
+    "Name": "Singapore Exchange - DT"
+  },
+  {
+    "Code": "OSE",
+    "Name": "Osaka Securities Exchange"
+  },
+  {
+    "Code": "TSE",
+    "Name": "Tokyo Stock Exchange"
+  },
+  {
+    "Code": "Kansas",
+    "Name": "Kansas City Board of Trade"
+  },
+  {
+    "Code": "Minne",
+    "Name": "Minneapolis Grain Exchange"
+  },
+  {
+    "Code": "BFOX",
+    "Name": "Belgian Futures & Options Exchange (BELFOX)"
+  },
+  {
+    "Code": "COLL",
+    "Name": "Collateral"
+  },
+  {
+    "Code": "KOFX",
+    "Name": "KOFEX EXCHANGE"
+  },
+  {
+    "Code": "MDEX",
+    "Name": "Malaysian Derivatives Exchange"
+  },
+  {
+    "Code": "NYB",
+    "Name": "NYBOT"
+  },
+  {
+    "Code": "OTCM",
+    "Name": "Over the counter Metals"
+  },
+  {
+    "Code": "TCE",
+    "Name": "Tokyo Commodities Exchange"
+  },
+  {
+    "Code": "NYSEM",
+    "Name": "NYSE Metals"
+  },
+  {
+    "Code": "EDX",
+    "Name": "EDX"
+  },
+  {
+    "Code": "ONEC",
+    "Name": "One Chicago"
+  },
+  {
+    "Code": "CEE",
+    "Name": "CME Europe"
+  },
+  {
+    "Code": "CFE",
+    "Name": "CFE"
+  },
+  {
+    "Code": "NYPC",
+    "Name": "NYPC"
+  },
+  {
+    "Code": "DME",
+    "Name": "DUBAI MERCANTILE EXCHANGE"
+  },
+  {
+    "Code": "PRO",
+    "Name": "PRO OTC"
+  },
+  {
+    "Code": "NZFE",
+    "Name": "NZFE"
+  },
+  {
+    "Code": "DGCX",
+    "Name": "DGCX"
+  },
+  {
+    "Code": "NLX",
+    "Name": "NLX"
+  },
+  {
+    "Code": "BDP",
+    "Name": "Bolsa Derivados Portugal"
+  },
+  {
+    "Code": "EEX",
+    "Name": "EEX"
+  },
+  {
+    "Code": "SAFX",
+    "Name": "SAFEX"
+  },
+  {
+    "Code": "NDEX",
+    "Name": "NDEX"
+  },
+  {
+    "Code": "CMEE",
+    "Name": "CME CLEARING"
+  },
+  {
+    "Code": "BMF",
+    "Name": "B3"
+  },
+  {
+    "Code": "NORP",
+    "Name": "Nordpool"
+  },
+  {
+    "Code": "MFL LDM",
+    "Name": "LDM"
+  },
+  {
+    "Code": "LMP",
+    "Name": "London Metals Precious"
+  },
+  {
+    "Code": "IFED",
+    "Name": "IFED"
+  },
+  {
+    "Code": "TFEX",
+    "Name": "Thailand Future Exchange"
+  },
+  {
+    "Code": "NFX",
+    "Name": "Nasdaq Futures Exchange"
+  },
+  {
+    "Code": "NZX",
+    "Name": "NEW ZEALAND EXCHANGE"
+  },
+  {
+    "Code": "NDAQ",
+    "Name": "Nasdaq"
+  },
+  {
+    "Code": "IFAD",
+    "Name": "IFAD"
+  },
+  {
+    "Code": "OCC",
+    "Name": "Options Clearing Corporation"
+  }
+]
